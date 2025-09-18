@@ -4,17 +4,27 @@ A dynamic **NGO Management WebApp** built with **Java (JSP + Servlets), SQL, and
 This project enables **users to register** and allows an **admin to log in** and **monitor all registrations** in real time. 🚀  
 
 ## ✨ Features
+
 📝 User Registration – NGOs can register with details like name, email, contact, and NGO ID.
+
 🔑 Admin Login – Secure login for admin to manage registrations.
+
 📊 Admin Dashboard – View all registered NGO details.
+
 🗄️ Database Integration – Data stored using MySQL.
+
 🎨 Frontend Styling – Designed using HTML & CSS for a clean UI.
 
 ## ⚙️ Tech Stack
-Frontend: HTML, CSS, JSP
-Backend: Java Servlets
-Database: MySQL (via JDBC)
-Server: Apache Tomcat
+
+🎨Frontend: HTML, CSS, JSP
+
+🛠️Backend: Java Servlets
+
+📑Database: MySQL (via JDBC)
+
+💾Server: Apache Tomcat
+
 IDE: NetBeans
 
 ## 📸 Screenshots
@@ -22,17 +32,18 @@ IDE: NetBeans
 
 ## 📌 SDLC Model Used
 For development, the Waterfall Model of SDLC was followed:
-1)Requirement Analysis – Identified need for NGO registration & admin management.
 
-2)System Design – Designed database schema & web UI.
+🔍Requirement Analysis – Identified need for NGO registration & admin management.
 
-3)Implementation – Developed using Java, JSP, Servlets, MySQL.
+📐System Design – Designed database schema & web UI.
 
-4)Testing – Verified registration, login, and admin dashboard modules.
+💻Implementation – Developed using Java, JSP, Servlets, MySQL.
 
-5)Deployment – Hosted on Apache Tomcat server.
+🧪Testing – Verified registration, login, and admin dashboard modules.
 
-6)Maintenance – Future scope: email notifications, role-based access, analytics.
+🚀Deployment – Hosted on Apache Tomcat server.
+
+🔧Maintenance – Future scope: email notifications, role-based access, analytics.
 
 ## 💡 Future Enhancements
 ✉️ Automated email notifications for registered NGOs.
