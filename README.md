@@ -23,14 +23,22 @@ IDE: NetBeans
 ## 📌 SDLC Model Used
 For development, the Waterfall Model of SDLC was followed:
 1)Requirement Analysis – Identified need for NGO registration & admin management.
+
 2)System Design – Designed database schema & web UI.
+
 3)Implementation – Developed using Java, JSP, Servlets, MySQL.
+
 4)Testing – Verified registration, login, and admin dashboard modules.
+
 5)Deployment – Hosted on Apache Tomcat server.
+
 6)Maintenance – Future scope: email notifications, role-based access, analytics.
 
 ## 💡 Future Enhancements
 ✉️ Automated email notifications for registered NGOs.
+
 🔑 Role-based access for multiple admin levels.
+
 📊 Analytics & Reports for better NGO management.
+
 🌐 Responsive design for mobile devices.
